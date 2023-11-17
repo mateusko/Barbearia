@@ -8,4 +8,4 @@ Fundada em 2019, a Barbearia Alura já é destaque na cidade e conquista novos c
 <p>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. 
 O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
 
-![]()
+![](https://media.tenor.com/4P30eTFuHLwAAAAC/barber-barbershop.gif)
