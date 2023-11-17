@@ -8,4 +8,4 @@ Fundada em 2019, a Barbearia Alura já é destaque na cidade e conquista novos c
 <p>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. 
 O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
 
-![](https://github.com/Edutec-maristel/teste-2/assets/126511994/4479197a-56d0-4d02-ac90-e8712844b72b)
+![]()
